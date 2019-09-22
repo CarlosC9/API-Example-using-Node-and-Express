@@ -1,0 +1,17 @@
+[
+    {
+    "type" : "dog",
+    "url": "/img/animals/Tobi.jpg"
+    },
+    {
+        "type": "cat",
+        "url" : "/img/animals/Lexa.jpg"
+    },
+    {
+        "type":"cat",
+        "url": "/img/animals/kef3.jpeg"
+    }, {
+        "type":"cat",
+        "url": "/img/animals/rberba.jpg"
+    }
+]
